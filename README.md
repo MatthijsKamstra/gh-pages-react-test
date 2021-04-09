@@ -29,6 +29,12 @@ add deploy script to `package.json`
     }
 ```
 
+Now deploy it to GitHub Pages
+
+```bash
+npm run deploy
+```
+
 `Go to {your-GitHub-code-repository} -> settings -> GitHub pages section and setup source to the gh-pages branch.`
 
 push to git.
